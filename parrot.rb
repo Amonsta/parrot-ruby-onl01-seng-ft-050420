@@ -12,4 +12,4 @@ def parrot(phrase)
 end
 
 parrot
-phrase
+parrot(phrase)
