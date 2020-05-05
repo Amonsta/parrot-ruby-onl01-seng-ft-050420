@@ -6,3 +6,6 @@ def parrot
   "Squawk!"
 end
 
+def phrase("Pretty bird!")
+  "Pretty bird"
+end
