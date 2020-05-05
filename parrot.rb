@@ -10,3 +10,6 @@ def parrot(phrase)
   phrase = "Pretty bird!"
   puts phrase
 end
+
+parrot
+phrase
